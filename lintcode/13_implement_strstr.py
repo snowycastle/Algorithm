@@ -25,6 +25,8 @@ class MySolution:
     @param source:
     @param target:
     @return: return the index
+
+    成绩：您的提交打败了 76.20% 的提交!
     """
     def strStr(self, source, target):
         # Write your code here
